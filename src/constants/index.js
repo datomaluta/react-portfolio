@@ -102,7 +102,6 @@ export const PROJECTS = [
       "React Hook Form",
       "Redux.js",
     ],
-    live: "https://studypay.ge",
   },
   {
     title: "MERN Blog",
